@@ -1,0 +1,1 @@
+fixcol: fixcol.o args.o file.o handler.o queue.o
